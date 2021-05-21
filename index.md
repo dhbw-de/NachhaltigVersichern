@@ -2,26 +2,19 @@
 
 Jeder soll die Möglichkeit haben, ohne großen Aufwand den Aspekt der Nachhaltigkeit als Kriterium bei der Versicherungswahl zu berücksichtigen
 
-### Markdown
+### Unsere Idee
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Wir wollen Nachhaltigkeit als Bestandteil in der Versicherungsbranche für die Nutzer greifbarer machen!
 
 ```markdown
-Syntax highlighted code block
+Wie wollen wir dieses Ziel erreichen?
+- Eingliederung von Nachhaltigkeit als festes Kriterium bei der Versicherungsauswahl
+- Transparente Darstellung von Nachhaltigkeit für den Kunden
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+What? 
+- App zur nachhaltigen Gestaltung von Versicherungsverträgen 
+(Überprüfung bestehender Verträge und Neuabschluss von Verträgen)
+- Erstellung eines Nachhaltigkeitsprofils mittels Chatbot
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
