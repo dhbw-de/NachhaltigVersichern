@@ -1,4 +1,4 @@
-## Welcome to NachhaltigVersichern
+## Willkommen bei NachhaltigVersichern
 
 Jeder soll die Möglichkeit haben, ohne großen Aufwand den Aspekt der Nachhaltigkeit als Kriterium bei der Versicherungswahl zu berücksichtigen
 
