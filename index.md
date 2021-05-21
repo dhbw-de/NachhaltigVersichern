@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to NachhaltigVersichern
 
-You can use the [editor on GitHub](https://github.com/dhbw-de/NachhaltigVersichern/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jeder soll die Möglichkeit haben, ohne großen Aufwand den Aspekt der Nachhaltigkeit als Kriterium bei der Versicherungswahl zu berücksichtigen
 
 ### Markdown
 
